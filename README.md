@@ -1,6 +1,3 @@
-Here's the cleaned-up and polished README:
-
----
 
 # 🌡️ Temperature-Based Fan Speed Controller with LCD Telemetry
 
