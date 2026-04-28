@@ -12,7 +12,7 @@ This project implements an automated, **closed-loop thermal management system** 
 | Category | Component / Parameter | Specification / Detail |
 | :--- | :--- | :--- |
 | **Microcontroller** | Arduino Uno | ATmega328P |
-| **Temperature Sensor** | LM35 / TMP36 | Precision Analog Sensing (±0.5°C accuracy) |
+| **Temperature Sensor** | LM35 | Precision Analog Sensing (±0.5°C accuracy) |
 | **Display Interface** | 16x2 Parallel LCD | Hitachi HD44780 Compatible |
 | **Actuator** | DC Cooling Fan | 12V operation via Relay/MOSFET |
 | **Control Logic** | PWM & Thresholding | Closed-loop proportional control |
