@@ -37,6 +37,20 @@ The hardware integration and system response are documented below for immediate 
 2. **Logic Processing** — If the detected temperature exceeds a pre-set threshold (e.g., 30°C), the Arduino either activates the fan via a relay or modulates the PWM duty cycle for variable speed control.
 3. **Telemetry Interface** — The 16x2 LCD provides continuous user feedback, displaying live thermal data and the active fan status.
 
+   ---
+
+## 🛠️ Skills Demonstrated
+
+- Embedded C / Arduino IDE
+- PWM Signal Generation & Duty Cycle Control
+- Analog Sensor Interfacing (LM35/TMP36)
+- Real-Time Data Acquisition (1 Hz sampling)
+- HD44780 LCD Driver Integration
+- Closed-Loop Proportional Control Logic
+- Circuit Prototyping on Breadboard
+- MOSFET / Relay-based Actuator Driving
+- Hardware Debugging & Validation
+
 ---
 
 ## 5. Repository Structure
