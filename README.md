@@ -43,7 +43,7 @@ The hardware integration and system response are documented below for immediate 
 
 - Embedded C / Arduino IDE
 - PWM Signal Generation & Duty Cycle Control
-- Analog Sensor Interfacing (LM35/TMP36)
+- Analog Sensor Interfacing (LM35)
 - Real-Time Data Acquisition (1 Hz sampling)
 - HD44780 LCD Driver Integration
 - Closed-Loop Proportional Control Logic
