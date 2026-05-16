@@ -25,7 +25,7 @@ The hardware integration and system response are documented below for immediate 
 
 ### 🔹 Hardware Integration
 
-![System Setup](Visuals/Model.png)
+![System Setup](Visuals/madel_01.jpeg)
 
 *Figure 1: Integrated hardware assembly showing Arduino controller, sensor interface, and fan module.*
 
